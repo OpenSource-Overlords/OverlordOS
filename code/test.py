@@ -7,6 +7,8 @@ def test_hello_world():
     assert output == "Hello, World!", f"Expected 'Hello, World!' but got '{output}'"
 
     #blah blah blah this is an if statement doi
+
+    #eyy this is a comment in a test classsssssssss
 if __name__ == "__main__":
     test_hello_world()
     print("All tests passed!")
