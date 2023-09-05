@@ -6,6 +6,7 @@ def test_hello_world():
     
     assert output == "Hello, World!", f"Expected 'Hello, World!' but got '{output}'"
 
+    #blah blah blah this is an if statement doi
 if __name__ == "__main__":
     test_hello_world()
     print("All tests passed!")
