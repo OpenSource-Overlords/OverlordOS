@@ -6,6 +6,7 @@ def test_hello_world():
     
     assert output == "Hello, World!", f"Expected 'Hello, World!' but got '{output}'"
 
+    #another omment for a commit
 if __name__ == "__main__":
     test_hello_world()
     print("All tests passed!")
