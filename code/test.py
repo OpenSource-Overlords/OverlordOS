@@ -6,13 +6,8 @@ def test_hello_world():
     
     assert output == "Hello, World!", f"Expected 'Hello, World!' but got '{output}'"
 
-    #another omment for a commit
 if __name__ == "__main__":
     test_hello_world()
     print("All tests passed!")
-#this is a test comment to cause a merge conflict
-#YIKES!!! SCARY!!!!
 
 print('This is a test file')
-
-#;aokgjf
