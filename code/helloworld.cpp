@@ -7,6 +7,7 @@ int main(){
     printf("Sus");
     printf("Mon Kedick");
     printf("Don Keedick");
+    printf("Dick Hurtz");
 
     return 0;
 }
